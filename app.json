@@ -1,0 +1,21 @@
+{
+  "expo": {
+    "name": "WhatsApp Clone",
+    "slug": "whatsapp-clone",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "assetBundlePatterns": ["**/*"],
+    "ios": {
+      "supportsTablet": false,
+      "bundleIdentifier": "com.pradodev.whatsappclone"
+    },
+    "android": {
+      "package": "com.pradodev.whatsappclone"
+    },
+    "web": {
+      "bundler": "metro",
+      "output": "static"
+    }
+  }
+}
